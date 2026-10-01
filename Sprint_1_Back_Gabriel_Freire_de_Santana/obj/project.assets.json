@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\026.067733\\Sprint_1_Back_Gabriel_Freire_de_Santana\\Sprint_1_Back_Gabriel_Freire_de_Santana\\Sprint_1_Back_Gabriel_Freire_de_Santana.csproj",
+      "projectUniqueName": "C:\\Users\\026.067733\\source\\repos\\Sprint_1_Back\\Sprint_1_Back_Gabriel_Freire_de_Santana\\Sprint_1_Back_Gabriel_Freire_de_Santana.csproj",
       "projectName": "Sprint_1_Back_Gabriel_Freire_de_Santana",
-      "projectPath": "C:\\Users\\026.067733\\Sprint_1_Back_Gabriel_Freire_de_Santana\\Sprint_1_Back_Gabriel_Freire_de_Santana\\Sprint_1_Back_Gabriel_Freire_de_Santana.csproj",
+      "projectPath": "C:\\Users\\026.067733\\source\\repos\\Sprint_1_Back\\Sprint_1_Back_Gabriel_Freire_de_Santana\\Sprint_1_Back_Gabriel_Freire_de_Santana.csproj",
       "packagesPath": "C:\\Users\\026.067733\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\026.067733\\Sprint_1_Back_Gabriel_Freire_de_Santana\\Sprint_1_Back_Gabriel_Freire_de_Santana\\obj\\",
+      "outputPath": "C:\\Users\\026.067733\\source\\repos\\Sprint_1_Back\\Sprint_1_Back_Gabriel_Freire_de_Santana\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

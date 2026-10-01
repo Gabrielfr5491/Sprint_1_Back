@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sprint_1_Back_Gabriel_Freire_de_Santana")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b67d5abcb2cbb917924570c34de1d92a8ba694c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sprint_1_Back_Gabriel_Freire_de_Santana")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sprint_1_Back_Gabriel_Freire_de_Santana")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
